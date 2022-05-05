@@ -1,0 +1,28 @@
+PODS:
+  - camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - getter_livestream (1.0.0):
+    - Flutter
+
+DEPENDENCIES:
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - Flutter (from `Flutter`)
+  - getter_livestream (from `.symlinks/plugins/getter_livestream/ios`)
+
+EXTERNAL SOURCES:
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  Flutter:
+    :path: Flutter
+  getter_livestream:
+    :path: ".symlinks/plugins/getter_livestream/ios"
+
+SPEC CHECKSUMS:
+  camera: 9993f92f2c793e87b65e35f3a23c70582afb05b1
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  getter_livestream: d4442226cc60e06be6a06becdf49f5e0caab8363
+
+PODFILE CHECKSUM: 1b250d58ee8cbb28b71438f4e967e4181168bc63
+
+COCOAPODS: 1.11.3
